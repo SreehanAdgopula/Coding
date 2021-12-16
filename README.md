@@ -48,7 +48,7 @@
     </linearGradient>
   </defs>
   <ellipse cx="100" cy="70" rx="85" ry="55" fill="url(#grad1)" />
-  <text fill="#0000ff" font-size="35" font-family="Verdana"
+  <text fill="#00ffff" font-size="35" font-family="Verdana"
   x="50" y="80">THANK YOU</text>
 </svg> </center>
 
