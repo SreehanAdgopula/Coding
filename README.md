@@ -3,7 +3,7 @@
  <link rel="icon" type="image/x-icon" href=" file:///C:/Users/asree/Downloads/th%20(2).jpg">
 </head>
 <body bgcolor="aqua">
-<div style="border: 4px solid red"> <h1 align="center"> Coding is very important, even to a kid! </h1> </div>
+<div style="border: 4px solid red"> <h1 align="center"> Coding is very important, even a kid should learn it! </h1> </div>
 <br>
 <br>
 <br>
