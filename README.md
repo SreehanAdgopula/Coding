@@ -19,7 +19,7 @@
 <h2 align="center"> It's becasue, Code is the power our digital world. Every website, smartphone app, computer programme, <br> calculator and even microwave relies on code in order to operate.<br> This makes coders the architects and builders of the digital age. Even this website which I made needs codes to be maken </h2>
 <br>
 <br>
-<h2 align="center"> After hearing all this, do you think coding is hard? </h3>
+<h2 align="center"> After hearing all this, do you think coding is hard? </h2>
 <h3 align="center"> Well nope! Not at all, until and unless you have interest on it. </h3>
 <br>
 <br>
