@@ -8,7 +8,6 @@
 <br>
 <br>
 <h2 align="center"> <font color="silver"> English is the most important language as you know, but no, coding is the most imporant language in the world! In English, you only need to know about alphabets, the words and all the symbols </h2> </font>
-<font size="12"> <center> &#128523 </center> </font>
 <br>
 <br>
 <br>
