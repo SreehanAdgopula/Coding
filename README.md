@@ -3,11 +3,11 @@
  <link rel="icon" type="image/x-icon" href=" file:///C:/Users/asree/Downloads/th%20(2).jpg">
 </head>
 <body bgcolor="aqua">
-<div style="border: 4px solid red"> <h1 align="center"> Coding is very impoetant even to a kid! </h1> </div>
+<div style="border: 4px solid red"> <h1 align="center"> Coding is very important even to a kid! </h1> </div>
 <br>
 <br>
 <br>
-<h2 align="center"> <font color="silver"> English is the most important language as you know, but no, coding is the most imporant language in the world! In English, you only need to know about alphabets, the words and all the symbols </h2> </font>
+<h2 align="center"> <font color="silver"> English is the most important language as you know, but no, coding is the most imporant language in the world! In English, you only need to know about alphabets, the words and all the symbols </font> </h2>
 <br>
 <br>
 <br>
