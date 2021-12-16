@@ -31,7 +31,7 @@
             <p class="contact-message">Email here!</p>
             <a class="btn" href="mailto:asreehan@outlook.com">CONTACT ME</a> 
           </div>
-          </div> </center> <p>
+           </center> <p>
 <hr>
 <center> And this is my BIO.link. <br> </center>
 <center> <div class="bio link">
