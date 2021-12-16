@@ -25,7 +25,7 @@
 <br>
 <br>
 <H3 align="center"> Some easy programming languages are Scratch, Java, HTML (the language used to make websites),etc. </h3>
-<h2 align="center"> I know some programming languages like Python, Scratch, QBACIS, HTML </h2>
+<h2 align="center"> I know some programming languages like Python, Scratch, QBASIC, HTML </h2>
 <center> <div class="contact-me">                                                                                                                                       
             <h3 class="contact-title">Do you want to chat to me? Okay, fine, here it is!</h3>
             <p class="contact-message">Email here!</p>
